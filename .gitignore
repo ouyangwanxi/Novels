@@ -1,0 +1,6 @@
+.script/*.html
+.script/ezla
+_site/
+/_site/*
+/.sass-cache/*
+Gemfile*
